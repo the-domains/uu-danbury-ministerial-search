@@ -82,3 +82,6 @@ purpose:
   - type: contact
     url: 'mailto:searchcommittee@uudanbury.org'
     label: Contact me
+  - type: external
+    url: 'https://uudanbury.org'
+    label: UU Danbury Website
