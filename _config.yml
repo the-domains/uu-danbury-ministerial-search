@@ -1,0 +1,80 @@
+typography_spectrum: 0.5756994014677803
+color:
+  brandStrength: 0.9082984087195727
+  lightness: 0.8055522387086571
+  saturation: 1
+  rhythmicContrast: 0.16131483887100942
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+layout_spectrum: 0.9869132901400807
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/df500671-64e2-4eff-8f1e-6ba92d16ea2d.png
+name: >-
+  The Minister We Seek | Unitarian Universalist Congregation of Danbury
+  Ministerial Search Packet 2017
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Welcome
+    id: 081f26ba-2300-4a2f-97da-0be05a55470c
+    type: content
+  - name: Minister We Seek
+    id: b6b2615b-38c4-47c2-8798-3c5c68156b91
+    type: content
+  - name: Women's Retreat
+    id: cbcd9442-1d41-4ce8-87b7-adbe56ad2b48
+    type: content
+  - name: We Inspire
+    id: d98d18b8-cf20-499d-a8c6-36ce82890845
+    type: content
+  - name: We Connect
+    id: 9b9ddd5e-6a8b-4fd0-91d0-e557609e1c13
+    type: content
+  - name: Welcome to Our Neighborhood
+    id: 33e3c919-7154-480c-8305-c7ca4ee739e7
+    type: content
+  - name: We Act
+    id: 5cbff787-5c41-41bf-98ba-02fd69039156
+    type: content
+  - name: Who We Are
+    id: 7549ab01-9400-49a1-ba83-a60280e9e2f2
+    type: content
+title: >-
+  The Minister We Seek | Unitarian Universalist Congregation of Danbury
+  Ministerial Search Packet 2017
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45efc52-7a73-480d-8a7e-d023454a798f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45efc52-7a73-480d-8a7e-d023454a798f.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Welcoming you in the spirit of compassion, inquiry, and service'
+github: true
