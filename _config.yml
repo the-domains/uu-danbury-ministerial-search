@@ -81,7 +81,7 @@ github: true
 purpose:
   - type: contact
     url: 'mailto:searchcommittee@uudanbury.org'
-    label: Contact me
+    label: Contact Us
   - type: external
     url: 'https://uudanbury.org'
     label: UU Danbury Website
