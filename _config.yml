@@ -78,3 +78,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Welcoming you in the spirit of compassion, inquiry, and service'
 github: true
+purpose:
+  - type: contact
+    url: 'mailto:searchcommittee@uudanbury.org'
+    label: Contact Us
