@@ -4,8 +4,8 @@ description: >-
   Looking through the large windows of UU Danbury at the wooded landscape, one
   is reminded that we live in New England. The autumn is especially spectacular,
   with colors that draw visitors from all over during the season.
-dateModified: '2017-10-24T02:38:48.421Z'
-datePublished: '2017-10-24T02:38:48.867Z'
+dateModified: '2017-10-24T02:41:21.385Z'
+datePublished: '2017-10-24T02:41:21.770Z'
 title: Welcome to Our Neighborhood
 author: []
 publisher: {}
@@ -52,7 +52,7 @@ Local news searchable by towns
 
 If you are interested in learning more about Danbury, CT and any of the local towns surrounding Danbury, click on any of the following links to get the up to date information from the local Patch.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1zDEOwjAMRuGdU1TZwTtKO3AR5BqXVClx5PxVxe2BoRsd3vSkL3KXXKc-JKC2K1FlSLqIvajodn6bZ2q2Iik3hA7sT0Uf7uPCJYfh5ro1qEfi4RTrt2NPrBQVzLKCRjfL06zL45-5v5_6AfN3OOo" height="100" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFzrEKAjEMgOH9nuLortkl18EXkVzN2dLalDTl8O29RXAQnH_4-HEUP2FJHmmOytviolnrF4BGFuI5yBMq76eXaIYuwyJTNzcb6YNtcbe1UM3OX5X3bqwI5BEOb8L2Fw5SKwdLYRisKpK3xOX-C_-0Lx6O8zd6W0F9" height="100" style=""></iframe>
 
 * [Danbury][3]
 * [Brookfield][4]
