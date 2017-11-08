@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-08T04:15:55.765Z'
-datePublished: '2017-11-08T04:15:56.146Z'
+dateModified: '2017-11-08T04:16:53.322Z'
+datePublished: '2017-11-08T04:16:53.761Z'
 title: Our Congregational Record
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'http://uudanbury.me/Exhibits/Congregational%20Record.pdf'
+sourcePath: _posts/2017-11-08-our-congregational-record.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-08T04:15:56.146Z'
-sourcePath: _posts/2017-11-08-our-congregational-record.md
-_type: MediaObject
+url: our-congregational-record/index.html
+_type: Article
 
 ---
 # Our Congregational Record
