@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Minister We Seek | Unitarian Universalist Congregation of Danbury Ministerial Search Packet 2017]]></title>
-        <description><![CDATA[The Minister We Seek | Unitarian Universalist Congregation of Danbury Ministerial Search Packet 2017]]></description>
+        <title><![CDATA[The Minister We Seek | Unitarian Universalist Congregation of Danbury | Ministerial Search Portal 2017]]></title>
+        <description><![CDATA[The Minister We Seek | Unitarian Universalist Congregation of Danbury | Ministerial Search Portal 2017]]></description>
         <link>https://thegrid.ai/uu-danbury-ministerial-search/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 02:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2017 04:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uu-danbury-ministerial-search/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Oct 2017 02:44:30 GMT</pubDate>
+        <pubDate>Wed, 08 Nov 2017 04:15:57 GMT</pubDate>
         <item>
             <title><![CDATA[Our Mission]]></title>
             <description><![CDATA[<h1>Our Mission</h1>,<p>At the Unitarian Universalist Congregation of Danbury, we believe in deeds, not creeds. We care about the here and now and the future of our world more than the hereafter. We have diverse beliefs and backgrounds, but we come to gather in community, take care of each other, and celebrate life. We welcome you in the spirit of compassion, inquiry and service.</p>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/857f7b6c91425674bd5d61e078461eb5/noop.jpg?input=https%3A%2F%2F3huf62lwpsa1lwbe91xl9gfl-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fuucd_fh_1.jpg">]]></description>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/uu-danbury-ministerial-search/welcome-to-our-neighborhood/index.html</link>
             <guid isPermaLink="false">dff305f5-fa7e-41b2-bd54-2ceb9c7ccfea</guid>
             <pubDate>Sun, 22 Oct 2017 04:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Congregational Record]]></title>
+            <description><![CDATA[<h1>Our Congregational Record</h1>,<iframe src="https://drive.google.com/viewerng/viewer?url=http%3A//uudanbury.me/Exhibits/Congregational%2520Record.pdf&embedded=true" width="600" height="780"></iframe>]]></description>
+            <link>http://uudanbury.me/Exhibits/Congregational%20Record.pdf</link>
+            <guid isPermaLink="false">a5dc479f-1d0f-494b-b08c-ffe43e242303</guid>
+            <pubDate>Wed, 08 Nov 2017 04:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
