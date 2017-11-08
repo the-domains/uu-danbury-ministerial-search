@@ -10,6 +10,7 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+github: true
 layout_spectrum: 0.9869132901400807
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/df500671-64e2-4eff-8f1e-6ba92d16ea2d.png
@@ -48,6 +49,9 @@ navigation:
   - name: Who We Are
     id: 7549ab01-9400-49a1-ba83-a60280e9e2f2
     type: content
+  - name: Our Congregational Record
+    id: a5dc479f-1d0f-494b-b08c-ffe43e242303
+    type: content
 title: >-
   The Minister We Seek | Unitarian Universalist Congregation of Danbury |
   Ministerial Search Portal 2017
@@ -77,7 +81,6 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Welcoming you in the spirit of compassion, inquiry, and service'
-github: true
 purpose:
   - type: contact
     url: 'mailto:searchcommittee@uudanbury.org'
