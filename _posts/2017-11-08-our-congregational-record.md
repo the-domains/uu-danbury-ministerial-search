@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-11-08T04:16:53.322Z'
-datePublished: '2017-11-08T04:16:53.761Z'
+dateModified: '2017-11-08T04:18:17.435Z'
+datePublished: '2017-11-08T04:18:17.757Z'
 title: Our Congregational Record
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-08T04:15:56.146Z'
 url: our-congregational-record/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Our Congregational Record
